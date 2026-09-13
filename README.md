@@ -7,6 +7,24 @@
   <img src="https://myimgs.org/storage/images/38140/NormalSkin.png" alt="Normal Skin Collection" width="500">
 </p>
 
+<h2>XI. Komi Shouko </h2>
+<h4 align="center">Standard | 16:9 </h4>
+<p align="center">
+<a href="https://skins.osuck.net/skins/4473"><img src="https://myimgs.org/storage/images/38142/DownloadHere.png" width="40%"/></a>
+</p>
+
+<h2>XI. Hoshimi Miyabi </h2>
+<h4 align="center">Standard & Mania | 16:9 </h4>
+<p align="center">
+<a href="https://skins.osuck.net/skins/4189"><img src="https://myimgs.org/storage/images/38142/DownloadHere.png" width="40%"/></a>
+</p>
+
+<h2>X. STARLIGHT </h2>
+<h4 align="center">Mania | 16:9 </h4>
+<p align="center">
+<a href="https://skins.osuck.net/skins/4087"><img src="https://myimgs.org/storage/images/38142/DownloadHere.png" width="40%"/></a>
+</p>
+
 <h2>IX. ホタル - Firefly </h2>
 <h4 align="center">All Modes | 16:9 </h4>
 <p align="center">

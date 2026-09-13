@@ -2,7 +2,7 @@
 <p align="center">All of my osu skin collection</p>
 
 
-<p align="center"><img src="https://myimgs.org/storage/images/38139/Border.png" alt="Border" width="50%"></p>
+<p align="center"><img src="https://myimgs.org/storage/images/38139/Border.png" alt="Border" width="100%"></p>
 <p align="center">
   <img src="https://myimgs.org/storage/images/38140/NormalSkin.png" alt="Normal Skin Collection" width="500">
 </p>
@@ -66,7 +66,7 @@
 <a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file"><img src="https://myimgs.org/storage/images/38142/DownloadHere.png" width="40%"/></a>
 
 
-<p align="center"><img src="https://myimgs.org/storage/images/38139/Border.png" alt="Border" width="50%"></p>
+<p align="center"><img src="https://myimgs.org/storage/images/38139/Border.png" alt="Border" width="100%"></p>
 <p align="center">
   <img src="https://myimgs.org/storage/images/38141/CursedSkin.png" alt="Cursed Skin Collection" width="500">
 </p>
